@@ -1,4 +1,5 @@
-﻿using IronFitsApi.Models;
+﻿using IronFitApi.Models;
+using IronFitsApi.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace IronFitSApi.Data
